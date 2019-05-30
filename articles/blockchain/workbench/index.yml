@@ -3,7 +3,7 @@ documentType: LandingData
 title: Documentação do Azure Blockchain Workbench
 metadata:
   title: 'Documentação do Azure Blockchain Workbench - Tutoriais, Referência de API | Microsoft Docs'
-  description: 'Saiba como criar aplicativos de blockchain. Tutoriais, referências de API e outras documentações mostram como implantar o Azure Blockchain Workbench, criar e gerenciar aplicativos de blockchain no Azure.'
+  description: 'Saiba como criar aplicações blockchain. Tutoriais, referências de API e outras documentações mostram como implantar o Azure Blockchain Workbench, criar e gerenciar aplicações blockchain no Azure.'
   services: blockchain-workbench
   author: patricka
   manager: femila
@@ -14,18 +14,18 @@ metadata:
   ms.date: 04/17/2018
   ms.author: patricka
 abstract:
-  description: 'Saiba como criar aplicativos de blockchain. Tutoriais, referências de API e outras documentações mostram como implantar o Azure Blockchain Workbench para criar e usar aplicativos de blockchain no Azure.'
+  description: 'Saiba como criar aplicações blockchain. Tutoriais, referências de API e outras documentações mostram como implantar o Azure Blockchain Workbench para criar e usar aplicações blockchain no Azure.'
 sections:
   - title: Tutoriais Passo a Passo
     items:
       - type: paragraph
-        text: 'Saiba como implantar, criar e usar aplicativos de blockchain no Azure.'
+        text: 'Saiba como implantar, criar e usar aplicações blockchain no Azure.'
       - type: list
         style: ordered
         items:
           - html: <a href="/azure/blockchain-workbench/blockchain-workbench-deploy">Implantar o Azure Blockchain Workbench</a>
-          - html: <a href="/azure/blockchain-workbench/blockchain-workbench-create-app">Criar um aplicativo de blockchain</a>
-          - html: <a href="/azure/blockchain-workbench/blockchain-workbench-use">Usar um aplicativo de blockchain</a>
+          - html: <a href="/azure/blockchain-workbench/blockchain-workbench-create-app">Criar uma aplicação blockchain</a>
+          - html: <a href="/azure/blockchain-workbench/blockchain-workbench-use">Usar uma aplicação blockchain</a>
   - title: Referência
     items:
       - type: list
